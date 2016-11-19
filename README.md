@@ -1,4 +1,4 @@
-# Node  App
+# Node App
 
 Q&D prototype for Node App Hack 2016 forked from Hackathon Starter
 
